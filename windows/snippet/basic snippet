@@ -18,6 +18,9 @@ https://docs.microsoft.com/fr-fr/dotnet/standard/serialization/system-text-json-
 https://programmation-orientee-objet.pages.ensimag.fr/poo/resources/fiches/06-Abstraction_et_interfaces/
 ### interface --> windows documentation est tres bonne, tout est dedans
 https://learn.microsoft.com/fr-fr/dotnet/csharp/language-reference/keywords/interface
+### iterators
+https://learn.microsoft.com/fr-fr/dotnet/csharp/iterators
+
 ### REST Api
 Create a REST API with .NET 5 and C# (freecodecamp.org)
 
