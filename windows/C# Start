@@ -1,0 +1,26 @@
+############ OBJECTIF #############
+- se familiariser avec C# pour pouvoir commencer mon travail de la meilleur maniere
+
+
+### SUJET DE MON PREMIER EMPLOI ###
+- feedback des entretiens:
+
+1.       Development interest: Software development (all phases) with focus on Industrial application including architectural overview
+
+2.       Domain interest: Error proofing solutions, IIoT (Industrial Internet of Things) & Machine learning
+
+
+### FICHE DE POSTE ###
+
+### TUTO POUR COMMENCER ###
+# https://softchris.github.io/pages/dotnet-core.html#creating-a-solution
+Si tu veux juste les lignes de commandes
+
+# https://www.youtube.com/watch?v=WeTesTCzep0
+Pour etre sur qu'on utilise la meme installatio de vscode, je pense que tu es directement sur visual studio toi. Je ne connais pas si aurait une influence.
+
+#https://www.codecademy.com/courses/learn-c-sharp/lessons/csharp-data-types-variables/exercises/creating-variables-c-sharp
+C'est le cours que j'ai decide de suivre pour commencer mais je peux parfois passer assez rapidemment sur certaines notions
+
+#https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio-code
+Pour pouvoir faire une application
