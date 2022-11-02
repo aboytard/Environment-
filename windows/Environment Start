@@ -1,17 +1,6 @@
 ############ OBJECTIF #############
 - se familiariser avec C# pour pouvoir commencer mon travail de la meilleur maniere
 
-
-### SUJET DE MON PREMIER EMPLOI ###
-- feedback des entretiens:
-
-1.       Development interest: Software development (all phases) with focus on Industrial application including architectural overview
-
-2.       Domain interest: Error proofing solutions, IIoT (Industrial Internet of Things) & Machine learning
-
-
-### FICHE DE POSTE ###
-
 ### TUTO POUR COMMENCER ###
 # https://softchris.github.io/pages/dotnet-core.html#creating-a-solution
 Si tu veux juste les lignes de commandes
@@ -27,3 +16,20 @@ Pour pouvoir faire une application
 
 # Processus and Services
 https://www.malekal.com/processus-service-windows/
+
+# SQLite 
+## installation
+How to Download & Install SQLite on Windows (guru99.com)
+## usage
+https://www.journaldunet.com/web-tech/developpeur/1137249-comment-utiliser-une-base-sqlite/
+---> ado.net
+https://docs.microsoft.com/fr-fr/dotnet/framework/data/adonet/retrieving-data-using-a-datareader
+
+# Architecture Basic
+image.png
+Qu’est-ce que l’infrastructure informatique d’une entreprise ?
+https://bluebearsit.com/infrastructure-informatique/
+
+5 minutes pour comprendre le Cloud computing
+
+https://experiences.microsoft.fr/articles/cloud/5-minutes-pour-comprendre-le-cloud-computing/
