@@ -1,3 +1,24 @@
 # Tutoriel : 
-## Premier exercice basique:
+
+## Exercice basique:
 https://waytolearnx.com/2020/04/exercice-c-corrige-partie-1-2.html
+
+## Service Windows
+### Definition
+https://commentouvrir.com/blog/quest-ce-quun-service-definition-dun-service-windows/
+#### Creation
+https://docs.microsoft.com/fr-fr/dotnet/framework/windows-services/walkthrough-creating-a-windows-service-application-in-the-component-designer
+
+## json
+### hors contexte
+https://docs.microsoft.com/fr-fr/dotnet/standard/serialization/system-text-json-how-to?pivots=dotnet-5-0
+
+## programmation Objet
+### Abstraction et interface : notions
+https://programmation-orientee-objet.pages.ensimag.fr/poo/resources/fiches/06-Abstraction_et_interfaces/
+### interface --> windows documentation est tres bonne, tout est dedans
+https://learn.microsoft.com/fr-fr/dotnet/csharp/language-reference/keywords/interface
+### REST Api
+Create a REST API with .NET 5 and C# (freecodecamp.org)
+
+## linq premier tutoriel
